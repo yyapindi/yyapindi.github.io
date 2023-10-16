@@ -26,3 +26,7 @@ aside{
     padding: 0.1em 1em 1em;
     border: 2px red;
 }
+article img{
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
