@@ -16,3 +16,6 @@ article p::first-letter{
     color: black;
 
 }
+article h3{
+    column-span: all;
+}
