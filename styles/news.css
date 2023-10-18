@@ -25,6 +25,17 @@ aside{
     background-color: lightblue;
     padding: 0.1em 1em 1em;
     border: 2px solid blue;
+    position: fixed;
+    bottom: 35%;
+    right: 0%;
+
+
+}
+aside ol{
+    list-style-type:upper-roman;
+}
+aside ul{
+    list-style-type: square;
 }
 article img{
     float: left;
