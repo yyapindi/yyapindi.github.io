@@ -43,8 +43,9 @@ article img{
     margin-bottom: 1em;
 }
 #nav_menu ul { list-style-type: none;
-margin-bottom: 2em; }
-#nav_menu ul li { float: left; }
+ }
+#nav_menu ul li { float: left;
+    margin-bottom: 2em; }
 #nav_menu ul li a {
     text-align: center;
     display: block;
@@ -66,4 +67,11 @@ footer{
 main{
     border-top: 2px solid blue;
     clear: left;
+}
+body{
+    border: 1px solid black;
+     border-radius: 25px;
+     box-shadow: 5px 5px 0 0;
+     background-color: white;
+     
 }
