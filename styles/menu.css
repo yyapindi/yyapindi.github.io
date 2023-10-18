@@ -20,3 +20,6 @@ aside ul{
 aside ol{
     list-style-type:upper-roman;
 }
+article{
+    clear: left;
+}
