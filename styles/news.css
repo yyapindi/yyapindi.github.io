@@ -16,7 +16,7 @@ article p::first-letter{
     color: black;
 
 }
-article h3{
+article h1{
     column-span: all;
 }
 aside{
@@ -24,7 +24,7 @@ aside{
     float: right;
     background-color: lightblue;
     padding: 0.1em 1em 1em;
-    border: 2px red;
+    border: 2px solid blue;
 }
 article img{
     float: left;
