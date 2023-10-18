@@ -1,3 +1,6 @@
+html {
+    background-Image: linear-gradient(to left, white 0%, lightblue 100%);
+}
 article{
     clear: both;
     width: 75%;
