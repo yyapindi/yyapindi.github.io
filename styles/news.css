@@ -52,4 +52,5 @@ footer{
 }
 header{
     border-bottom: 2px solid blue;
+    clear: both;
 }
