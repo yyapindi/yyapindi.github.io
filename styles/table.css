@@ -36,6 +36,7 @@ html, body {
     }
     table.Third{
         border-collapse: collapse;
+        border-bottom: 3px solid orange ;
 
     }
     table.Third th{
@@ -47,5 +48,5 @@ html, body {
     table.Third th, table.Third td{
         padding: 0.7em;
         vertical-align: top;
-        
+
     }
